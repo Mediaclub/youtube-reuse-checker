@@ -4,3 +4,4 @@ librosa
 streamlit
 pytube
 moviepy
+imageio[ffmpeg]
