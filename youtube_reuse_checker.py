@@ -3,7 +3,7 @@ import numpy as np
 import librosa
 import streamlit as st
 from pytube import YouTube
-from moviepy.editor import VideoFileClip
+from moviepy.video.io.VideoFileClip import VideoFileClip
 import os
 
 def download_youtube_video(youtube_url):
