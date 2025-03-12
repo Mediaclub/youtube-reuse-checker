@@ -1,0 +1,6 @@
+opencv-python
+numpy
+librosa
+streamlit
+pytube
+moviepy
